@@ -26,3 +26,9 @@ Open `index.html` in a browser. Keep `index.html` and `style.css` in the same fo
 - Add specific operational responsibilities from your father's business only if you can accurately describe them.
 - Test the website on both desktop and mobile.
 - Add your final live website URL and repository URL to the submission.
+
+## Recent content updates
+- Added education timelines: 2026–2029 (expected) for both programmes.
+- Identified the family business as SR Jewellers and described daily operational involvement since 2026.
+- Refined the About section with a current learning and career focus.
+- Added an ID selector for the About section's career-focus callout.
